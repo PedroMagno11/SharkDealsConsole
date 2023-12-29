@@ -18,7 +18,7 @@ namespace SharkDealsConsole.Modelos
        
         public override string ToString()
         {
-            return $"Nome: {this.Nome}\nPreço sem desconto: {this.PrecoNormal}\nPreço com desconto: {this.PrecoDeVenda}\nDesconto de: {this.Desconto!.Substring(0,5)}%\n";
+            return $" - Nome: {this.Nome}\n - Preço sem desconto: {this.PrecoNormal}\n - Preço com desconto: {this.PrecoDeVenda}\n - Desconto de: {this.Desconto!.Substring(0,5)}%\n";
         }
     }
 }

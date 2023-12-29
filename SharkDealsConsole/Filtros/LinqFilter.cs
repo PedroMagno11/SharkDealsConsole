@@ -57,6 +57,19 @@ namespace SharkDealsConsole.Filtros
                 Console.WriteLine($" - {jogo.Nome} - {jogo.PrecoNormal}");
             }
         }
+        public static void ExibirDetalhesDeUmJogoEspecifico(List<Jogo> jogos, string nomeDoJogo)
+        {
+            if (jogos.Exists(jogo => jogo.Nome == nomeDoJogo))
+            {
+                Jogo game = jogos.Find(jogo => jogo.Nome == nomeDoJogo);
+                Console.WriteLine($"Detalhes do jogo {game.Nome}:");
+                Console.WriteLine(game);
 
+            }
+            else
+            {
+                Console.WriteLine("Jogo não encontrado!");
+            }
+        }
     }
 }

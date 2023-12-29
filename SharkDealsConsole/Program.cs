@@ -23,7 +23,8 @@ void ExibirMenu(List<Jogo> jogos)
     Console.WriteLine("Digite 2 - Ver todos os jogos filtrados por menores preços com desconto.");
     Console.WriteLine("Digite 3 - Ver todos os jogos filtrados por maiores preços com desconto.");   
     Console.WriteLine("Digite 4 - Ver todos os jogos filtrados por menores preços sem desconto.");
-    Console.WriteLine("Digite 5 - Ver todos os jogos filtrados por maiores preços sem desconto.");   
+    Console.WriteLine("Digite 5 - Ver todos os jogos filtrados por maiores preços sem desconto.");
+    Console.WriteLine("Digite 6 - Ver detalher de um jogo específico.");
 
     int opcao = int.Parse(Console.ReadLine()!);
 
@@ -60,6 +61,15 @@ void ExibirMenu(List<Jogo> jogos)
         case 5:
             Console.Clear();
             LinqFilter.FiltrarJogosPorMaiorPrecoSemDesconto(jogos);
+            Console.ReadLine();
+            Console.Clear();
+            ExibirMenu(jogos);
+            break;
+        case 6:
+            Console.Clear();
+            Console.Write("Informe o nome do jogo que deseja: ");
+            string nomeDoJogo = Console.ReadLine()!;
+            LinqFilter.ExibirDetalhesDeUmJogoEspecifico(jogos, nomeDoJogo);
             Console.ReadLine();
             Console.Clear();
             ExibirMenu(jogos);

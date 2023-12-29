@@ -12,3 +12,4 @@ C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotn
 C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.pdb
 C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.genruntimeconfig.cache
 C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\ref\SharkDealsConsole.dll
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.sourcelink.json

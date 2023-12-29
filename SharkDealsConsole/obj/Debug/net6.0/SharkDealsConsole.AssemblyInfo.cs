@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SharkDealsConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c092f1a7ce32425629136b3b88dd68b96845137b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SharkDealsConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SharkDealsConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
