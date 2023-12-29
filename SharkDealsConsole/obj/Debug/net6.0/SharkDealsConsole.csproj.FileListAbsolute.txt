@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\bin\Debug\net6.0\SharkDealsConsole.exe
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\bin\Debug\net6.0\SharkDealsConsole.deps.json
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\bin\Debug\net6.0\SharkDealsConsole.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\bin\Debug\net6.0\SharkDealsConsole.dll
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\bin\Debug\net6.0\SharkDealsConsole.pdb
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.dll
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\refint\SharkDealsConsole.dll
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.pdb
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\SharkDealsConsole.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\net6.0\ref\SharkDealsConsole.dll

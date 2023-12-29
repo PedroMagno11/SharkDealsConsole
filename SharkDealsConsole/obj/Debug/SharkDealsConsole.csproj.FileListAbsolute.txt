@@ -1,0 +1,2 @@
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\SharkDealsConsole.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\SharkDealsConsole\SharkDealsConsole\obj\Debug\SharkDealsConsole.csproj.CoreCompileInputs.cache
